@@ -1,0 +1,6 @@
+[
+    {"comment": "JSON står for JavaScript notation. Og tar i mot en array eller object som root."},
+    {"fruit": "Apple"},
+    {"vegetable": "Potato"},
+    {"berry": "Strawberry"}
+]
